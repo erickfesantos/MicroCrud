@@ -1,0 +1,37 @@
+#geral{
+  display:flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content:center;
+  align-items: center;
+}
+#parte1, #parte2{
+  border: solid gray 3px;
+  width: 200px;
+  height: 400px;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+  margin: 20px;
+}
+button{
+  width: 150px;
+  height: 40px;
+  margin: 20px;
+}
+.opcoes{
+  width: 150px;
+  height: 40px;
+  margin: 20px;
+  border: solid gray 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: gray;
+  border-radius: 3px;
+}
+#texto{
+  width: 140px;
+  height: 40px;
+}
