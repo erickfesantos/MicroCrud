@@ -4,6 +4,7 @@
   height: 100vh;
   justify-content:center;
   align-items: center;
+  background: linear-gradient(90deg,#000,#1e1e1e 50%,#000);
 }
 #parte1, #parte2{
   border: solid gray 3px;
