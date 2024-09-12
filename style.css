@@ -1,3 +1,6 @@
+*{
+  margin: 0px;
+}
 #geral{
   display:flex;
   width: 100vw;
